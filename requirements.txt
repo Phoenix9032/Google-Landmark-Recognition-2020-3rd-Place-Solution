@@ -10,3 +10,4 @@ tqdm==4.31.1
 opencv_python==4.4.0.44
 numpy==1.18.5
 scikit_learn==0.23.2
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
